@@ -10,6 +10,8 @@ export default {
         'fade-in': 'fadeIn 0.5s ease-in',
         'slide-up': 'slideUp 0.5s ease-out',
         'float': 'float 3s ease-in-out infinite',
+        'float-delay-1': 'float 3s ease-in-out 0.2s infinite',
+        'float-delay-2': 'float 3s ease-in-out 0.4s infinite',
       },
       keyframes: {
         fadeIn: {

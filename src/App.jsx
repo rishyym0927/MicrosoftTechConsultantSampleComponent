@@ -165,7 +165,7 @@ function App() {
             {/* Step 2 */}
             <div className="text-center">
               <div className="relative inline-block mb-6">
-                <div className="w-20 h-20 bg-gradient-to-br from-purple-600 to-purple-700 rounded-full flex items-center justify-center shadow-lg animate-float" style={{animationDelay: '0.2s'}}>
+                <div className="w-20 h-20 bg-gradient-to-br from-purple-600 to-purple-700 rounded-full flex items-center justify-center shadow-lg animate-float-delay-1">
                   <span className="text-3xl font-bold text-white">2</span>
                 </div>
               </div>
@@ -178,7 +178,7 @@ function App() {
             {/* Step 3 */}
             <div className="text-center">
               <div className="relative inline-block mb-6">
-                <div className="w-20 h-20 bg-gradient-to-br from-green-600 to-green-700 rounded-full flex items-center justify-center shadow-lg animate-float" style={{animationDelay: '0.4s'}}>
+                <div className="w-20 h-20 bg-gradient-to-br from-green-600 to-green-700 rounded-full flex items-center justify-center shadow-lg animate-float-delay-2">
                   <span className="text-3xl font-bold text-white">3</span>
                 </div>
               </div>
